@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mjolnir Gen 2 ODST Helmet (Free)
+* source:	https://sketchfab.com/3d-models/mjolnir-gen-2-odst-helmet-free-0c6ca4dc74e3492b9b095be16dfc19cf
+* author:	HoliestMallard (https://sketchfab.com/holiestmallard)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mjolnir Gen 2 ODST Helmet (Free)" (https://sketchfab.com/3d-models/mjolnir-gen-2-odst-helmet-free-0c6ca4dc74e3492b9b095be16dfc19cf) by HoliestMallard (https://sketchfab.com/holiestmallard) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
