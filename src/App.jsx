@@ -1,5 +1,5 @@
 import { useRef, useState } from "react";
-import Slider from "./Slider"
+// import Slider from "./Slider"
 import Square from "./Square"
 
 import OrderButton from "./OrderButton/OrderButton";
